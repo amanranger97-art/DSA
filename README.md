@@ -58,4 +58,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanranger97-art/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
