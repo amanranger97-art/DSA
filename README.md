@@ -6,6 +6,7 @@
 | ------- |
 | [0018-4sum](https://github.com/amanranger97-art/DSA/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/amanranger97-art/DSA/tree/master/0040-combination-sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/amanranger97-art/DSA/tree/master/0905-sort-array-by-parity) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/amanranger97-art/DSA/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/amanranger97-art/DSA/tree/master/0905-sort-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
