@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Search
 |  |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
