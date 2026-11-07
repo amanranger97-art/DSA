@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanranger97-art/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 ## Math
 |  |
 | ------- |
@@ -83,9 +84,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
