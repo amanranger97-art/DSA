@@ -15,6 +15,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amanranger97-art/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanranger97-art/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/amanranger97-art/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/amanranger97-art/DSA/tree/master/0061-rotate-list) |
@@ -65,11 +66,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amanranger97-art/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amanranger97-art/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amanranger97-art/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/amanranger97-art/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amanranger97-art/DSA/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
