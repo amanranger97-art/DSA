@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanranger97-art/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/amanranger97-art/DSA/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/amanranger97-art/DSA/tree/master/0040-combination-sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanranger97-art/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/amanranger97-art/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amanranger97-art/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanranger97-art/DSA/tree/master/0160-intersection-of-two-linked-lists) |
