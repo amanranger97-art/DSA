@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanranger97-art/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/amanranger97-art/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/amanranger97-art/DSA/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/amanranger97-art/DSA/tree/master/0040-combination-sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanranger97-art/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanranger97-art/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/amanranger97-art/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanranger97-art/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/amanranger97-art/DSA/tree/master/0061-rotate-list) |
@@ -102,5 +104,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanranger97-art/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
