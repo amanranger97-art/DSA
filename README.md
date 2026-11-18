@@ -38,6 +38,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/amanranger97-art/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/amanranger97-art/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/amanranger97-art/DSA/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,9 +104,14 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/amanranger97-art/DSA/tree/master/0125-valid-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanranger97-art/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/amanranger97-art/DSA/tree/master/0044-wildcard-matching) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
