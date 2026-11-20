@@ -109,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/amanranger97-art/DSA/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanranger97-art/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/amanranger97-art/DSA/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +121,9 @@
 | [0234-palindrome-linked-list](https://github.com/amanranger97-art/DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanranger97-art/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/amanranger97-art/DSA/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/amanranger97-art/DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
