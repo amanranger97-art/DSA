@@ -111,6 +111,7 @@
 | [0844-backspace-string-compare](https://github.com/amanranger97-art/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanranger97-art/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/amanranger97-art/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amanranger97-art/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/amanranger97-art/DSA/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
@@ -129,5 +130,6 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/amanranger97-art/DSA/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amanranger97-art/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/amanranger97-art/DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
